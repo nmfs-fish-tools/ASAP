@@ -194,20 +194,20 @@ text-align: left;
 
 .IconButton {
 
-width: 33px;
-height: 30px;
-color: #FFFFFF;
-font-family: 'Source Sans Pro';
-font-size: 20px;
-font-weight: normal;
-font-style: normal;
-text-decoration: none;
-background: rgba(63,81,181,0.4);
-border: 1px solid #FFFFFF;
-border-radius: 10px;
-box-shadow: 0 5px 5px -5px #333;
-text-align: center;
-margin-left: auto;
+    width: 30px;
+    height: 30px;
+    color: #FFFFFF;
+    font-family: 'Source Sans Pro';
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    background: rgba(63,81,181,0.4);
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px -5px #333;
+    text-align: center;
+    margin-left: auto;
 }
 
 .bottom{
@@ -245,7 +245,7 @@ li{
     color: white;
     border-radius: 2px;
     font-size: 12px;
-    font-family: Roboto,sans-serif;
+    font-family: sans-serif;
     font-weight: 400;
 }
 [data-md-tooltip]:hover:before {
